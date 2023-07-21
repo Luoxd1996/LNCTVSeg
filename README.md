@@ -5,8 +5,8 @@
 * We will release the development set images and corresponding labels, comprising 300 CT volumes from 150 patients, after undergoing an anonymous review process.
 We have provided an example from the development cohort dataset, the details are as follows:
 
-|---|---|---|---|
 |Variable|label index|LN levels included|	Clinical significance in NPC RT|
+|---|---|---|---|
 |R_II+III+Va|	1	|Right levels II, III, and Va|	Right upper neck|
 |L_II+III+Va|	2	|Left levels II,III, and Va	|Left upper neck|
 |R_IV+Vb|	3	|Right levels IV and Vb|	Right lower neck|
