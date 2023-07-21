@@ -1,7 +1,7 @@
 # <div align=center> LNCTVSeg</div>
 
 # Patient-specific and adaptive delineation of lymph node clinical target volumes for nasopharyngeal carcinoma radiotherapy using deep learning.
-* This work aims to use deep learning for patient-specific and adaptive delineation of lymph node clinical target volume in nasopharyngeal carcinoma radiotherapy.
+* This work aims to use deep learning for patient-specific and adaptive delineation of lymph node clinical target volume in nasopharyngeal carcinoma (NPC) radiotherapy (RT).
 * We have provided an example from the development cohort dataset, the details are as follows:
 
 |Variable|label index|LN levels included|	Clinical significance in NPC RT|
