@@ -1,7 +1,7 @@
 # <div align=center> LNCTVSeg</div>
-Deep learning for lymph node clinical target volume delineation in nasopharyngeal carcinoma (NPC) radiotherapy (RT)
+Deep learning for lymph node clinical target volume delineation in nasopharyngeal carcinoma radiotherapy.
 * This work aims to use deep learning to delineate the lymph node clinical target volume in nasopharyngeal carcinoma (NPC) radiotherapy (RT).
-* We will release the development set images and corresponding labels (with anonymization and de-identify the face of patients), consists of 300 CT volumes from 150 patients upon publication.
+* We will release the development set images and corresponding labels (with anonymization and de-identify the face of patients), consisting of 300 CT volumes from 150 patients upon publication.
 * We have provided an example from the development cohort dataset, the details are as follows:
 
 |Abbreviation|label index|LN levels included|Clinical significance in NPC RT|
