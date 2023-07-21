@@ -14,5 +14,5 @@ Patient-specific and adaptive delineation of lymph node clinical target volumes 
 |L_Ib|	6	|Left level Ib	|Left submandibular area|
 
 ## Acknowledgment and Statement
-* Further details about this work will be disclosed upon publication。
+* Further details about this work will be disclosed upon publication.
 * If you have any inquiries or are interested in collaborating on this topic, please do not hesitate to reach out to [Xiangde Luo](https://luoxd1996.github.io).
