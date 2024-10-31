@@ -20,7 +20,7 @@
 * Please install [nnUNetv1](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1) or [3D UXNet](https://github.com/MASILab/3DUX-Net) first; then, download our [trained models](https://drive.google.com/drive/folders/13JsdK2WUdYROpmN2Z2UurdsfZkiXVxzU?usp=sharing) (nnUNet, SwinUNETR, 3DUXNET, REPUXNet) for inference; the detailed information can be found in the above links.
 
 ### 2. Use the dataset for training and validation:
-* Please download the whole dataset from [here](https://figshare.com/articles/dataset/LNCTVSeg-DataSet_zip/26793622?file=48684664) (440 computed tomography (CT) images from 262 patients; some patients have multiple annotations, such as inter-/intra-observer annotations).
+* Please download the whole dataset from [here](https://figshare.com/articles/dataset/LNCTVSeg-DataSet_zip/26793622?file=48684664) (440 computed tomography (CT) images from 262 patients; some patients have multiple annotations, such as inter-/intra-observer annotations). Please note that the uncompressed password **lnctvseg@uestc**.
  
 ## Acknowledgment and Statement
 * Further details about this work will be disclosed upon publication.
